@@ -1,3 +1,9 @@
+# SSR sample
+
+A brief sample of SSR with NextJS Fluent UI. The `CustomButton` component is a client component but it is rendered from a server component, which also accesses the file system (this should not be possible from a client component).
+
+# Template
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
